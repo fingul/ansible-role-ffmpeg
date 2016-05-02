@@ -1,0 +1,19 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: fingul
+  description: install ffmpeg to /usr/local/bin
+  company: "fingul"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.9
+  platforms:
+    - name: Ubuntu
+      versions:
+      - all
+    - name: Debian
+      versions:
+      - all
+  galaxy_tags:
+    - multimedia
+    - ffmpeg
